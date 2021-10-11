@@ -1,1 +1,1 @@
-[githublink](https://wolfcolin.github.io/markdown-portfolio/)
+[See my profile](https://wolfcolin.github.io/markdown-portfolio/)
